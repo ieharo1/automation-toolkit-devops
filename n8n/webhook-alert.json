@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "path": "server-alert",
+        "responseMode": "lastNode"
+      },
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook"
+    }
+  ]
+}

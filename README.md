@@ -1,35 +1,20 @@
-# 🚀 Automation Toolkit – DevOps
+# 🛠️ Automation Toolkit DevOps
 
-Real-world automation scripts used in production environments.
+Real-world automation scripts usados en producción desarrollados por **Isaac Esteban Haro Torres**.
 
-## 🛠️ Included Tools
-- SQL Server Backups (PowerShell)
-- ZIP + NAS Upload
-- Telegram Notifications
-- Linux Server Monitoring
-- Log Cleanup Automation
-- Docker Monitoring Stack
-- n8n Webhooks
+---
 
-## 📦 Use Cases
-✔ Daily SQL Backups  
-✔ Infrastructure Monitoring  
-✔ Server Alerts via Telegram  
-✔ Disk Space Optimization  
-✔ CI/CD Automation Support  
+## 📝 Descripción
 
-## ⚙️ Tech Stack
-- PowerShell
+Conjunto de herramientas para automatización de procesos DevOps.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- Python
 - Bash
 - Docker
-- n8n
-- SQL Server
-
-## 📌 Why this repo?
-This repository focuses on **real automation**, not tutorials.
-Scripts are designed for **production environments**.
-
-⭐ If this repo helps you, consider giving it a star!
 
 ---
 
